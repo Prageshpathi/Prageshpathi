@@ -1,47 +1,94 @@
-Hi 👋, I'm a Developer
+# 👋 Hi, I'm Prageshpathi
 
-💻 Passionate about software development and building modern web applications.
+### 💻 Developer | Software Enthusiast | Full-Stack Learner
 
-🛠️ Skills & Technologies
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00AEEF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Prageshpathi+%F0%9F%91%8B;Software+Developer+%F0%9F%92%BB;Building+Modern+Web+Applications+%F0%9F%9A%80;Always+Learning+Something+New+%F0%9F%94%A5" />
+</p>
 
-🐍 Python
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Prageshpathi&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-🔵 C
+---
 
-⚡ C++
+## 🚀 About Me
 
-☕ Java
+- 💻 Passionate about **Software Development**
+- 🌐 Interested in **Web Development**
+- ⚛️ Building applications with **React**
+- 🐍 Learning and developing with **Python**
+- ☕ Working with **Java**
+- 🧠 Practicing **C & C++**
+- 🗄️ Working with **SQLite**
+- 🚀 Exploring modern development tools
+- 📚 Always learning and improving my coding skills
 
-🌐 HTML
+---
 
-🎨 CSS
+# 🛠️ Tech Stack
 
-⚛️ React
+### 👨‍💻 Programming Languages
 
-🌊 Tailwind CSS
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java" />
+</p>
 
-🚀 Postman
+### 🌐 Frontend Development
 
-🗄️ SQLite
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+</p>
 
-🚀 Tech Stack
-Languages   : Python | C | C++ | Java
-Frontend    : HTML | CSS | React | Tailwind CSS
-Database    : SQLite
-Tools       : Postman | Git | GitHub
+### 🗄️ Database & API Tools
 
-📌 About Me
+<p>
+  <img src="https://skillicons.dev/icons?i=sqlite,postman" />
+</p>
 
-🔭 Currently working on improving my development skills
+### 🔧 Development Tools
 
-🌱 Learning and exploring modern technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
-💡 Interested in Software Development & Web Development
+---
 
-🚀 Always building and learning new things
+# 📊 GitHub Statistics
 
-📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Prageshpathi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prageshpathi&theme=tokyonight&hide_border=true&border_radius=15" height="180"/>
+</p>
 
-🔥 GitHub Streak
+---
 
-💻 "Code. Learn. Build. Repeat." 🚀
+# 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prageshpathi&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
+</p>
+
+---
+
+# 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prageshpathi&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+# 🔥 My Skills
+
+```text
+Python          ████████████████████░░░░  85%
+C               ████████████████░░░░░░░░  70%
+C++             ████████████████░░░░░░░░  70%
+Java            ███████████████░░░░░░░░░  65%
+HTML            █████████████████████░░░  90%
+CSS             ████████████████████░░░░  85%
+React           █████████████████░░░░░░░  75%
+Tailwind CSS    █████████████████░░░░░░░  75%
+SQLite          ███████████████░░░░░░░░░  65%
+Postman         ████████████████░░░░░░░░  70%
