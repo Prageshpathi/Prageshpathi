@@ -61,23 +61,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prageshpathi&theme=tokyonight&hide_border=true&border_radius=15" height="180"/>
 </p>
 
----
 
-# 💻 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prageshpathi&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
-</p>
-
----
-
-# 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prageshpathi&theme=tokyo-night&hide_border=true" />
-</p>
-
----
 
 # 🔥 My Skills
 
