@@ -1,16 +1,47 @@
-## Hi there 👋
+Hi 👋, I'm a Developer
 
-<!--
-**Prageshpathi/Prageshpathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Passionate about software development and building modern web applications.
 
-Here are some ideas to get you started:
+🛠️ Skills & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐍 Python
+
+🔵 C
+
+⚡ C++
+
+☕ Java
+
+🌐 HTML
+
+🎨 CSS
+
+⚛️ React
+
+🌊 Tailwind CSS
+
+🚀 Postman
+
+🗄️ SQLite
+
+🚀 Tech Stack
+Languages   : Python | C | C++ | Java
+Frontend    : HTML | CSS | React | Tailwind CSS
+Database    : SQLite
+Tools       : Postman | Git | GitHub
+
+📌 About Me
+
+🔭 Currently working on improving my development skills
+
+🌱 Learning and exploring modern technologies
+
+💡 Interested in Software Development & Web Development
+
+🚀 Always building and learning new things
+
+📊 GitHub Stats
+
+🔥 GitHub Streak
+
+💻 "Code. Learn. Build. Repeat." 🚀
