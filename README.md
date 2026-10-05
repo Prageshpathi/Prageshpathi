@@ -61,7 +61,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prageshpathi&theme=tokyonight&hide_border=true&border_radius=15" height="180"/>
 </p>
 
-
+![Prageshpathi Profile Animation](./prageshpathi_profile_line_animation.gif)
 
 # 🔥 My Skills
 
